@@ -1,2 +1,1 @@
-# bmdhodl.github.io
-BMD HODL Investment Co.
+gatsby-theme-intro/README.md
